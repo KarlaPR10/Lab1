@@ -33,6 +33,12 @@ Discuss the outcomes and choose the best strategy for various situations.
 <img width="654" alt="Captura de pantalla 2024-05-14 a la(s) 7 23 57 p m" src="https://github.com/KarlaPR10/Lab1/assets/138635602/b53805d9-74fe-47f4-99c4-ec6116db3abd">
 <img width="1728" alt="Captura de pantalla 2024-05-14 a la(s) 7 25 50 p m" src="https://github.com/KarlaPR10/Lab1/assets/138635602/8daa79fc-f26e-4987-bcd7-9454d464bde9">
 <img width="456" alt="Captura de pantalla 2024-05-14 a la(s) 7 26 08 p m" src="https://github.com/KarlaPR10/Lab1/assets/138635602/ca026634-e0df-4757-a5f4-278f6567025c">
+3. Pull Request and Code Review Simulation
+In this exercise, participants will create pull requests to integrate changes from their feature branches into the main branch. They will then conduct code reviews, applying the best practices covered in the lessons:
+Create a pull request and assign it to another lab participant.
+Review another participant’s pull request, providing constructive feedback and requesting changes if necessary.
+Discuss the effectiveness of the communication and feedback techniques used during the reviews.
+
 
 
 
