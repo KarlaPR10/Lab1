@@ -38,8 +38,9 @@ In this exercise, participants will create pull requests to integrate changes fr
 Create a pull request and assign it to another lab participant.
 Review another participant’s pull request, providing constructive feedback and requesting changes if necessary.
 Discuss the effectiveness of the communication and feedback techniques used during the reviews.
-<img width="1337" alt="Captura de pantalla 2024-05-14 a la(s) 7 37 08 p m" src="https://github.com/KarlaPR10/Lab1/assets/138635602/bfc855a6-e456-4845-b2cc-4c2ad6ca4577">
-<img width="1499" alt="Captura de pantalla 2024-05-14 a la(s) 7 37 16 p m" src="https://github.com/KarlaPR10/Lab1/assets/138635602/31da93a3-2fb4-40f6-9417-2db66cb05f65">
+<img width="1337" alt="Captura de pantalla 2024-05-14 a la(s) 7 37 08 p m" src="https://github.com/KarlaPR10/Lab1/assets/138635602/9d092e52-b668-45f1-8623-12747ebc3d61">
+
+
 
 
 
