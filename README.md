@@ -28,7 +28,6 @@ Participants will simulate development scenarios that lead to conflicts, requiri
 Create branches that modify the same file in different ways to generate conflicts.
 Use Git commands to resolve these conflicts through merging or rebasing.
 Discuss the outcomes and choose the best strategy for various situations.
-<img width="1728" alt="Captura de pantalla 2024-05-14 a la(s) 7 17 10 p m" src="https://github.com/KarlaPR10/Lab1/assets/138635602/90464ae7-7c37-4cf7-bd89-db41286ab1cf">
 <img width="796" alt="Captura de pantalla 2024-05-14 a la(s) 7 17 32 p m" src="https://github.com/KarlaPR10/Lab1/assets/138635602/61e086c1-b1ea-4ced-a67b-8acbc346f4cf">
 <img width="682" alt="Captura de pantalla 2024-05-14 a la(s) 7 20 09 p m" src="https://github.com/KarlaPR10/Lab1/assets/138635602/0e81ce42-bf5a-463a-beb1-4376e0624109">
 <img width="654" alt="Captura de pantalla 2024-05-14 a la(s) 7 23 57 p m" src="https://github.com/KarlaPR10/Lab1/assets/138635602/b53805d9-74fe-47f4-99c4-ec6116db3abd">
