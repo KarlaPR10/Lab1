@@ -1,0 +1,20 @@
+Lab Overview
+In this lab, participants will engage in hands-on exercises that bring to life the Git workflows and best practices covered in the preceding lessons. They will simulate real-world software development scenarios, focusing on applying branching strategies, resolving merge conflicts, handling pull requests effectively, and utilizing GitHub Actions to automate key aspects of their workflow.
+
+Tasks
+1. Branch Strategy Simulation
+Participants will set up a new GitHub repository to simulate working with different branching strategies. They will implement scenarios for both Trunk Based Development and GitFlow, demonstrating their understanding of when and how each strategy is best utilized.
+Trunk Based Development:
+Initialize a new repository and simulate a continuous integration environment by committing small changes directly to the main branch. Demonstrate quick feature integration and frequent commits.
+GitFlow:
+Set up a develop branch alongside the main branch. Create feature branches for new developments, merge them back into develop, and then finish with a release branch that merges into main.
+2. Conflict Resolution and Merging
+Participants will simulate development scenarios that lead to conflicts, requiring them to choose between merging and rebasing to resolve these issues. They will:
+Create branches that modify the same file in different ways to generate conflicts.
+Use Git commands to resolve these conflicts through merging or rebasing.
+Discuss the outcomes and choose the best strategy for various situations.
+3. Pull Request and Code Review Simulation
+In this exercise, participants will create pull requests to integrate changes from their feature branches into the main branch. They will then conduct code reviews, applying the best practices covered in the lessons:
+Create a pull request and assign it to another lab participant.
+Review another participant’s pull request, providing constructive feedback and requesting changes if necessary.
+Discuss the effectiveness of the communication and feedback techniques used during the reviews.
