@@ -39,6 +39,11 @@ Create a pull request and assign it to another lab participant.
 Review another participant’s pull request, providing constructive feedback and requesting changes if necessary.
 Discuss the effectiveness of the communication and feedback techniques used during the reviews.
 <img width="1337" alt="Captura de pantalla 2024-05-14 a la(s) 7 37 08 p m" src="https://github.com/KarlaPR10/Lab1/assets/138635602/9d092e52-b668-45f1-8623-12747ebc3d61">
+<img width="1499" alt="Captura de pantalla 2024-05-14 a la(s) 7 37 16 p m" src="https://github.com/KarlaPR10/Lab1/assets/138635602/6ad7a4ec-53b6-428c-9c71-6bc6632e206f">
+<img width="663" alt="Captura de pantalla 2024-05-14 a la(s) 7 43 33 p m" src="https://github.com/KarlaPR10/Lab1/assets/138635602/eccdf952-6e4c-44a5-bacf-ee5aca014c1a">
+<img width="1360" alt="Captura de pantalla 2024-05-14 a la(s) 7 43 44 p m" src="https://github.com/KarlaPR10/Lab1/assets/138635602/dc60fe64-ac7b-46ab-9036-b958b02154a5">
+<img width="1388" alt="Captura de pantalla 2024-05-14 a la(s) 7 53 07 p m" src="https://github.com/KarlaPR10/Lab1/assets/138635602/a35ab95c-c122-4b46-9aa4-8f21e37c351b">
+<img width="1002" alt="Captura de pantalla 2024-05-14 a la(s) 7 53 17 p m" src="https://github.com/KarlaPR10/Lab1/assets/138635602/1bb62f74-4869-4199-b54c-5808c6c4c3a7">
 
 
 
