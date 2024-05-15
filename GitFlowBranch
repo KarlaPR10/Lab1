@@ -1,3 +1,4 @@
 GitFlow:
-Set up a develop branch alongside the main branch. Create feature branches for new developments, merge them back into develop, and then finish with a release branch that merges into main.
+Set up a develop branch alongside the main branch. Create feature branches for new developments
+Create feature branches for new developments, merge them back into develop, and then finish with a release branch that merges into main.
 
