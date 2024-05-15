@@ -19,6 +19,12 @@ Set up a develop branch alongside the main branch. Create feature branches for n
  Create feature branches for new developments, merge them back into develop
  <img width="1728" alt="Captura de pantalla 2024-05-14 a la(s) 6 42 19 p m" src="https://github.com/KarlaPR10/Lab1/assets/138635602/28676330-da79-4160-8d78-992d2ca756af">
  <img width="1720" alt="Captura de pantalla 2024-05-14 a la(s) 6 44 32 p m" src="https://github.com/KarlaPR10/Lab1/assets/138635602/12d24c07-416b-4dc7-8eca-0eff694e5e7f">
+ 
+ and then finish with a release branch that merges into main
+ <img width="637" alt="Captura de pantalla 2024-05-14 a la(s) 7 03 36 p m" src="https://github.com/KarlaPR10/Lab1/assets/138635602/1013e380-8a99-4b44-afd2-400a6137a8bc">
+<img width="938" alt="Captura de pantalla 2024-05-14 a la(s) 7 04 03 p m" src="https://github.com/KarlaPR10/Lab1/assets/138635602/14bdea02-1810-40dd-b0ce-c0bc3ea933f2">
+
+
 
 
 
