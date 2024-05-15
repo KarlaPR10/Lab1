@@ -12,6 +12,11 @@ Initialize a new repository and simulate a continuous integration environment by
 <img width="700" alt="Captura de pantalla 2024-05-14 a la(s) 6 25 02 p m" src="https://github.com/KarlaPR10/Lab1/assets/138635602/94e4e725-e27e-4517-9c68-a32b5644e17a">
 
 
+GitFlow:
+Set up a develop branch alongside the main branch. Create feature branches for new developments, merge them back into develop, and then finish with a release branch that merges into main.
+
+
+
 
 
 
